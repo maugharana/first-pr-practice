@@ -1,0 +1,10 @@
+{
+  "name": "first-pr-practice",
+  "version": "1.0.0",
+  "description": "A tiny string-utils library used to practice the git commit / push / pull request workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
